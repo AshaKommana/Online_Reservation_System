@@ -4,10 +4,15 @@ A simple and beginner-friendly Online Train Reservation System built using Java 
 This project includes:
 
 ✔ User Login
+
 ✔ Train Ticket Reservation
+
 ✔ Auto Train Name Filling
+
 ✔ Ticket Cancellation using PNR
+
 ✔ MySQL Database Storage
+
 ✔ User-friendly GUI (Java Swing)
 
 ## Features
