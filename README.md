@@ -100,5 +100,8 @@ Run the main class:
 Main.java
 
 ### Sample Credentials
-Username	Password
-admin	admin123
+
+Username - admin
+
+Password - admin123
+
