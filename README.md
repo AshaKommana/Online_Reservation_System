@@ -1,4 +1,4 @@
-## Online Reservation System
+# Online Reservation System
 
 A simple and beginner-friendly Online Train Reservation System built using Java Swing, MySQL, and JDBC.
 This project includes:
@@ -10,7 +10,7 @@ This project includes:
 ✔ MySQL Database Storage
 ✔ User-friendly GUI (Java Swing)
 
-# Features
+## Features
 
 ### 1️⃣ Login Module
 
