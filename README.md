@@ -1,4 +1,4 @@
-### Online Reservation System
+## Online Reservation System
 
 A simple and beginner-friendly Online Train Reservation System built using Java Swing, MySQL, and JDBC.
 This project includes:
@@ -10,15 +10,15 @@ This project includes:
 ✔ MySQL Database Storage
 ✔ User-friendly GUI (Java Swing)
 
-## Features
+# Features
 
-# 1️⃣ Login Module
+### 1️⃣ Login Module
 
 User must enter valid username & password.
 
 Credentials are verified from the database.
 
-# 2️⃣ Reservation Module
+### 2️⃣ Reservation Module
 
 Enter Passenger Name, Train No., Class, Date, From, To.
 
@@ -28,7 +28,7 @@ Input validation for empty fields.
 
 Successful reservation automatically generates a PNR in MySQL.
 
-# 3️⃣ Cancellation Module
+### 3️⃣ Cancellation Module
 
 Enter PNR to search booking.
 
@@ -69,7 +69,7 @@ Database	               MySQL
 Connectivity	           JDBC
 IDE Used	               IntelliJ IDEA
 
-## How to Run the Project
+# How to Run the Project
 
 ✔ Step 1 — Clone the Repository
 git clone https://github.com/AshaKommana/online-reservation-system.git
@@ -99,6 +99,6 @@ Run the main class:
 
 Main.java
 
-# Sample Credentials
+### Sample Credentials
 Username	Password
 admin	admin123
