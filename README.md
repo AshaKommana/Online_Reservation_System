@@ -69,7 +69,7 @@ Database	               MySQL
 Connectivity	           JDBC
 IDE Used	               IntelliJ IDEA
 
-# How to Run the Project
+## How to Run the Project
 
 ✔ Step 1 — Clone the Repository
 git clone https://github.com/AshaKommana/online-reservation-system.git
